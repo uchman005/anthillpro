@@ -39,7 +39,7 @@ define("session_timout",20);
 define("session_delete_timout",30);
 define("auth_session_key","logged_in");
 define("auth_url","/myhq/login");
-define("domain", "https://travellazi.com/");
+define("domain", "https://localhost/anthillpro/");
 
 define("db_host","localhost");
 define("db_user","travelaz_anthix");
